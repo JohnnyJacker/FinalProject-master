@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jokedisplay</string>
+
+
+    <string name="blank_fragment">Blank fragment</string>
+    <string name="missing_joke">Please provide a joke for me to tell!</string>
+    <string name="action_settings">Settings</string>
+</resources>
